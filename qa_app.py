@@ -19,7 +19,7 @@ import pymongo
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
 
-uri = "mongodb+srv://hasham25525:ngbA7meIPsBguWUC@cluster1.pqyjb2j.mongodb.net/?retryWrites=true&w=majority"
+uri = "mongodb+srv://hasham25525@cluster1.pqyjb2j.mongodb.net/?retryWrites=true&w=majority"
 
 st.set_page_config(page_title="PDF Analyzer",page_icon=':shark:')
 
